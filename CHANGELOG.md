@@ -4,6 +4,7 @@
 
 - Implement smtp connection and handshake
 - Organize response codes and errors
+- Fallback to HELO if EHLO not supported
 
 ## [0.0.0][] - 2022-05-07
 
