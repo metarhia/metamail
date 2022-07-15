@@ -3,6 +3,7 @@
 ## [Unreleased][unreleased]
 
 - Implement smtp connection and handshake
+- Organize response codes and errors
 
 ## [0.0.0][] - 2022-05-07
 
