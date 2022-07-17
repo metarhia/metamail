@@ -6,6 +6,7 @@
 - Organize response codes and errors
 - Fallback to HELO if EHLO not supported
 - Support secure connections and connection upgrade
+- Add plain and login auth methods
 
 ## [0.0.0][] - 2022-05-07
 
