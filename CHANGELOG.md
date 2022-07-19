@@ -8,6 +8,7 @@
 - Support secure connections and connection upgrade
 - Add plain and login auth methods
 - Add data sending
+- Add error handling and connection close processing
 
 ## [0.0.0][] - 2022-05-07
 
