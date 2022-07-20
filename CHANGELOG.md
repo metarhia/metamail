@@ -9,6 +9,7 @@
 - Add plain and login auth methods
 - Add data sending
 - Add error handling and connection close processing
+- Add `run` command to ensure uninterrupted sequence of commands
 
 ## [0.0.0][] - 2022-05-07
 
