@@ -11,7 +11,7 @@ export interface Transport {
 export interface SMTPOptions {
   host: string;
   port?: number;
-  auth: {
+  auth?: {
     user: string;
     password: string;
   };
