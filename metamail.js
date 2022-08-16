@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  ...require('./lib/transport.js'),
+  ...require('./lib/smtp/smtp-transport.js'),
 };
